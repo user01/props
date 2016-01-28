@@ -1,3 +1,5 @@
 *.blend1
 *.blend2
 **/materials/*.zip
+**/materials/*.jpg
+**/exportsketchfab/*
